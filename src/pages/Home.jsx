@@ -1,7 +1,7 @@
 import Navigation from "@/components/Navigation"
 import { Page } from "./Page"
 
-export function Home() {
+export default function Home() {
 
 	return (
 		<Page>

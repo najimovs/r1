@@ -1,7 +1,7 @@
 import { NavLink } from "react-router"
 import { Page } from "./Page"
 
-export function Error404() {
+export default function Error404() {
 
 	return <Page $jcc>
 		<h1 className="text-3xl font-bold underline">Not Found.</h1>

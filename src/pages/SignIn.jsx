@@ -1,7 +1,7 @@
 import Navigation from "@/components/Navigation"
 import { Page } from "./Page"
 
-export function SignIn() {
+export default function SignIn() {
 
 	return <Page>
 		<Navigation />
